@@ -1,0 +1,43 @@
+C:\Users\User\source\repos\Bank Management\Bank Management\bin\Debug\Bank Management.exe.config
+C:\Users\User\source\repos\Bank Management\Bank Management\bin\Debug\Bank Management.exe
+C:\Users\User\source\repos\Bank Management\Bank Management\bin\Debug\Bank Management.pdb
+C:\Users\User\source\repos\Bank Management\Bank Management\obj\Debug\Bank Management.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Bank Management\Bank Management\obj\Debug\Bank_Management.Form1.resources
+C:\Users\User\source\repos\Bank Management\Bank Management\obj\Debug\Bank_Management.Properties.Resources.resources
+C:\Users\User\source\repos\Bank Management\Bank Management\obj\Debug\Bank Management.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Bank Management\Bank Management\obj\Debug\Bank Management.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Bank Management\Bank Management\obj\Debug\Bank Management.exe
+C:\Users\User\source\repos\Bank Management\Bank Management\obj\Debug\Bank Management.pdb
+C:\Users\User\source\repos\Bank Management\Bank Management\obj\Debug\Bank_Management.Form2.resources
+C:\Users\User\source\repos\Bank Management\Bank Management\obj\Debug\Bank_Management.Form3.resources
+C:\Users\User\source\repos\Bank Management\Bank Management\obj\Debug\Bank_Management.UserControl1.resources
+C:\Users\User\source\repos\Bank Management\Bank Management\obj\Debug\Bank_Management.UserControl2.resources
+C:\Users\User\source\repos\Bank Management\Bank Management\obj\Debug\Bank_Management.UserControl3.resources
+C:\Users\User\source\repos\Bank Management\Bank Management\obj\Debug\Bank_Management.inputUserControl4.resources
+C:\Users\User\source\repos\Bank Management\Bank Management\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\User\source\repos\Bank Management\Bank Management\bin\Debug\Google.Protobuf.dll
+C:\Users\User\source\repos\Bank Management\Bank Management\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\User\source\repos\Bank Management\Bank Management\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\User\source\repos\Bank Management\Bank Management\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\User\source\repos\Bank Management\Bank Management\bin\Debug\MySql.Data.dll
+C:\Users\User\source\repos\Bank Management\Bank Management\bin\Debug\Renci.SshNet.dll
+C:\Users\User\source\repos\Bank Management\Bank Management\bin\Debug\System.Buffers.dll
+C:\Users\User\source\repos\Bank Management\Bank Management\bin\Debug\System.Memory.dll
+C:\Users\User\source\repos\Bank Management\Bank Management\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\source\repos\Bank Management\Bank Management\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\source\repos\Bank Management\Bank Management\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\User\source\repos\Bank Management\Bank Management\bin\Debug\Zstandard.Net.dll
+C:\Users\User\source\repos\Bank Management\Bank Management\bin\Debug\Google.Protobuf.pdb
+C:\Users\User\source\repos\Bank Management\Bank Management\bin\Debug\Google.Protobuf.xml
+C:\Users\User\source\repos\Bank Management\Bank Management\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\User\source\repos\Bank Management\Bank Management\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\User\source\repos\Bank Management\Bank Management\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\User\source\repos\Bank Management\Bank Management\bin\Debug\MySql.Data.xml
+C:\Users\User\source\repos\Bank Management\Bank Management\bin\Debug\Renci.SshNet.xml
+C:\Users\User\source\repos\Bank Management\Bank Management\bin\Debug\System.Buffers.xml
+C:\Users\User\source\repos\Bank Management\Bank Management\bin\Debug\System.Memory.xml
+C:\Users\User\source\repos\Bank Management\Bank Management\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\source\repos\Bank Management\Bank Management\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\source\repos\Bank Management\Bank Management\obj\Debug\Bank Management.csproj.CopyComplete
+C:\Users\User\source\repos\Bank Management\Bank Management\obj\Debug\Bank_Management.Form4.resources
+C:\Users\User\source\repos\Bank Management\Bank Management\obj\Debug\Bank_Management.UserControl5.resources
